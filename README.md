@@ -29,9 +29,9 @@ The following EXTRA features are implemented:
 
 - [x] Added DuckMo app brand logo
 
-## Video Demo
+## Video/Gif Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a video / gif that demos all of the app's implemented features:
 
 <img src='https://github.com/Dxsonu7/DuckMo-App/assets/87947158/955d4d3c-5b39-4517-8ad3-fc6c572db30e' title='Video/Gif Demo' width='250' alt='Video/Gif Demo' />
 
