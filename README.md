@@ -16,7 +16,7 @@ Time spent: **5** hours spent in total
 The following REQUIRED features are completed:
 
 - [x] Pick an app screenshot to duplicate
-- [x] Create a runnable app that displays an Animal Version of Venmo payment section show near the end   
+- [x] Create a runnable app that displays an Animal Version of Venmo payment section   
 - [x] Layout uses one (1) or more ConstraintLayout
 - [x] Layout uses one (1) or more ImageView
 - [x] Layout uses three (3) or more TextViews
