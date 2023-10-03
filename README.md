@@ -7,7 +7,7 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**DuckMo** is an android app that recreates Venmo payment screen using ducks!  
+**DuckMo** is an android app that recreates Venmo payment screen but is ducks!  
 
 ## Application Features
 
