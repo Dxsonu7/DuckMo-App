@@ -1,9 +1,5 @@
 # DuckMo-App
-# AND101 Project 3 - AnimalApps
-
-Submitted by: **Sonu Gupta**
-
-Time spent: **5** hours spent in total
+# ANDROID Project 3 - AnimalApps
 
 ## Summary
 
